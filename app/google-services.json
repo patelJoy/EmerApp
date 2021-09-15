@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338473732925",
+    "firebase_url": "https://deapp-26a29.firebaseio.com",
+    "project_id": "deapp-26a29",
+    "storage_bucket": "deapp-26a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338473732925:android:e1e93299a88b3b9a",
+        "android_client_info": {
+          "package_name": "com.example.vatsal.emerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338473732925-j2rrqjl614eh0149ckkn2g8tt4kf42t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CgeETfmgkWtfgz-bYRAzkH_5k8lIm3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
